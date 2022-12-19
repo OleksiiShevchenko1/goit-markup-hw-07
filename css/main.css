@@ -504,6 +504,7 @@ img {
 }
 
 .title-social {
+  padding: 0px 0px 10px 0px;
   margin-bottom: 20px;
   font-size: 14px;
   line-height: 16px;
@@ -514,6 +515,9 @@ img {
 
 .footer-soc-list {
   display: flex;
+  padding: 0;
+  margin-top: 0;
+  list-style: none;
   gap: 10px;
   align-items: center;
 }
@@ -555,7 +559,7 @@ img {
 }
 
 .footer-submit-text {
-  padding: 20px 0px 10px 0px;
+  padding: 0px 0px 10px 0px;
   margin-bottom: 20px;
   font-weight: 700;
   line-height: 1.14px;
